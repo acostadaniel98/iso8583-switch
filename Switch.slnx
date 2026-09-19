@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Switch.Api/Switch.Api.csproj" />
+    <Project Path="src/Switch.Application/Switch.Application.csproj" />
+    <Project Path="src/Switch.Domain/Switch.Domain.csproj" />
+    <Project Path="src/Switch.Infrastructure/Switch.Infrastructure.csproj" />
+    <Project Path="src/Switch.Iso8583/Switch.Iso8583.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Switch.Application.Tests/Switch.Application.Tests.csproj" />
+    <Project Path="tests/Switch.Domain.Tests/Switch.Domain.Tests.csproj" />
+    <Project Path="tests/Switch.Infrastructure.Tests/Switch.Infrastructure.Tests.csproj" />
+    <Project Path="tests/Switch.Iso8583.Tests/Switch.Iso8583.Tests.csproj" />
+  </Folder>
+</Solution>
